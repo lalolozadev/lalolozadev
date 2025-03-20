@@ -8,6 +8,12 @@ Desde mis estudios en Física, desarrollé una fuerte capacidad analítica y una
 
 Mi enfoque se ha dirigido principalmente a la optimización y automatización de **modelos numéricos para la simulación de cuerpos de agua**, trabajando con datos meteorológicos y oceanográficos. Además, he trabajado con bases de datos grandes, aplicando técnicas de ciencia de datos para la extracción de información relevante.  
 
+## 📂 Mis Repositorios  
+
+A continuación te muestro algunos de los proyectos en los que he estado trabajando:
+
+- **[Mantapy](https://github.com/lalolozadev/mantapy)**: Mantapy será una herramienta para el análisis de datos, diseñada especialmente para datos oceanográficos. Te ayuda a crear gráficos de forma rápida y sencilla. Solo carga tus datos y elige el tipo de gráfico que necesitas.  
+
 ## 🏆 Experiencia Profesional  
 
 - **Científico de Datos e Ingeniero de Software**  
