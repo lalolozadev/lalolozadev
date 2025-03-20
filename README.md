@@ -4,9 +4,7 @@ Soy un **Ingeniero de Software y Científico de Datos** con formación en **Fís
 
 ## 🚀 Sobre mí  
 
-Desde mis estudios en Física, desarrollé una fuerte capacidad analítica y una pasión por resolver problemas complejos mediante el uso de modelos computacionales. Posteriormente, me especialicé en la **automatización de procesos científicos y la gestión de datos**, combinando habilidades en programación, computación de alto rendimiento y análisis de datos geoespaciales.  
-
-Mi enfoque se ha dirigido principalmente a la optimización y automatización de **modelos numéricos para la simulación de cuerpos de agua**, trabajando con datos meteorológicos y oceanográficos. Además, he trabajado con bases de datos grandes, aplicando técnicas de ciencia de datos para la extracción de información relevante.  
+Desde mis estudios en Física, desarrollé una fuerte capacidad analítica y una pasión por resolver problemas complejos mediante el uso de modelos computacionales. Posteriormente, me especialicé en la **automatización de procesos científicos y la gestión de datos**, combinando habilidades en programación, computación de alto rendimiento y análisis de datos geoespaciales. 
 
 ## 📂 Mis Repositorios  
 
