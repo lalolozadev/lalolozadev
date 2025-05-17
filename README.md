@@ -1,76 +1,63 @@
-# ¡Hola, soy Eduardo Loza! 👋  
+# Hi there, I'm Eduardo Loza! 👋
 
-Soy un **Ingeniero de Software y Científico de Datos** con formación en **Física** por la Universidad de Guadalajara. Mi experiencia se centra en el desarrollo de soluciones para la **automatización de procesos**, el **análisis y visualización de datos** y la optimización de flujos de trabajo en entornos de investigación y modelado numérico.  
+I'm a **Software Engineer and Data Scientist** with a background in **Physics** from the University of Guadalajara. My work focuses on **process automation**, **data analysis and visualization**, and the development of custom tools for scientific modeling and research environments.
 
-## 🚀 Sobre mí  
+## 🚀 About Me
 
-Desde mis estudios en Física, desarrollé una fuerte capacidad analítica y una pasión por resolver problemas complejos mediante el uso de modelos computacionales. Posteriormente, me especialicé en la **automatización de procesos científicos y la gestión de datos**, combinando habilidades en programación, computación de alto rendimiento y análisis de datos geoespaciales. 
+During my physics studies, I developed a strong analytical mindset and a passion for solving complex problems through computational modeling. I specialize in automating scientific workflows and analyzing environmental and geophysical datasets using tools like Python, Bash, and MATLAB in high-performance computing (HPC) environments.
 
-## 📂 Mis Repositorios  
+## 📂 Featured Projects
 
-A continuación te muestro algunos de los proyectos en los que he estado trabajando:
+Here are some of the projects I’ve been working on:
 
-- **[Mantapy](https://github.com/lalolozadev/mantapy)**: Mantapy será una herramienta para el análisis de datos, diseñada especialmente para datos oceanográficos. Te ayuda a crear gráficos de forma rápida y sencilla. Solo carga tus datos y elige el tipo de gráfico que necesitas.  
+- **[Mantapy](https://github.com/lalolozadev/mantapy)**  
+  A data analysis tool designed for quick and intuitive visualization of oceanographic datasets. Upload your data, select the graph type, and generate insightful plots in seconds.
 
-## 🏆 Experiencia Profesional  
+*(More projects coming soon...)*
 
-- **Científico de Datos e Ingeniero de Software**  
-  - Desarrollo de **scripts en Python y Bash** para la gestión, procesamiento y análisis de grandes volúmenes de datos.  
-  - Implementación de flujos de trabajo automatizados en **HPC Clusters**, optimizando el procesamiento de modelos numéricos.  
-  - Integración de herramientas como **MATLAB, Fortran y NetCDF** para el manejo de datos científicos.  
-  - Uso de **APIs y Web Scraping** para la recopilación y organización de datos meteorológicos y oceanográficos.  
+## 🏆 Professional Experience
 
-- **Modelado y Simulación Numérica**  
-  - Manejo de modelos como **CROCO y Delft3D** para simulaciones de procesos físicos en cuerpos de agua.  
-  - Análisis y post-procesamiento de salidas de modelos numéricos, aplicando técnicas estadísticas y de visualización de datos.  
+- **Software Engineer & Data Scientist**  
+  - Developed Python and Bash scripts for the processing and analysis of large scientific datasets.  
+  - Automated workflows for numerical model execution (CROCO, ADCIRC, Delft3D) on HPC clusters.  
+  - Created statistical analysis tools to evaluate ocean current measurements from high-frequency radars.  
+  - Used APIs and web scraping to gather and organize meteorological and oceanographic data.  
 
-- **Automatización y Análisis de Datos**  
-  - Diseño de **pipelines de datos** para el preprocesamiento y posprocesamiento de información en tiempo real.  
-  - Desarrollo de herramientas para la conversión y estructuración de datos provenientes de diversas fuentes, incluyendo archivos **NetCDF, HDF5, .mat y .dat**.  
-  - Evaluación de modelos mediante métricas estadísticas como **RMSE y correlación de datos**.  
+- **Numerical Modeling & Simulation**  
+  - Worked with physical ocean models such as CROCO and Delft3D.  
+  - Handled model outputs and applied statistical techniques for data interpretation and post-processing.  
 
-## 🎓 Formación Académica  
+- **Data Automation & Analysis**  
+  - Designed data pipelines for real-time preprocessing and postprocessing.  
+  - Built tools to structure and convert data from formats like NetCDF, HDF5, .mat, and .dat.  
+  - Evaluated model outputs using metrics such as RMSE and data correlation.  
 
-- **Licenciatura en Física** – Universidad de Guadalajara  
-  - Especialización en modelado computacional y análisis de datos.  
-  - Experiencia en programación científica y procesamiento de señales.  
+## 🎓 Education
 
-## 🛠️ Tecnologías y Herramientas  
+**B.Sc. in Physics** – University of Guadalajara  
+- Specialized in computational modeling and scientific data analysis  
+- Experience in signal processing and scientific programming
 
-**Lenguajes de Programación:**  
-- Python (Pandas, NumPy, Matplotlib, SciPy)  
-- Bash Scripting  
-- Fortran  
+## 🛠️ Technologies & Tools
+
+**Programming Languages:**  
+- Python (pandas, NumPy, matplotlib, SciPy, scikit-learn)  
+- Bash scripting  
 - MATLAB  
+- Fortran  
 
-**Bases de Datos y Formatos:**  
-- NetCDF / HDF5   
-- JSON / CSV / XML  
+**Data Formats:**  
+- NetCDF, HDF5, .mat, .dat  
+- CSV, JSON, XML  
 
-**Herramientas y Frameworks:**  
-- Git / GitHub  
-- SLURM (Administración de trabajos en cluster HPC)  
+**Tools & Environments:**  
+- Git & GitHub  
 - Jupyter Notebooks  
+- SLURM (HPC job scheduling)  
 - OpenMP / MPI  
 
-## 📫 Contáctame  
+## 📫 Get in Touch
 
-Si te interesa colaborar o discutir ideas sobre **modelado numérico, análisis de datos o automatización de procesos**, ¡no dudes en contactarme!  
-  
-🔗 LinkedIn: [Eduardo Loza](https://www.linkedin.com/in/eduardo-loza-9b930b218/)  
+I'm always open to collaborations or discussions around **data science, numerical modeling, or scientific computing**.
 
-
-<!--
-**lalolozadev/lalolozadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn – Eduardo Loza](https://www.linkedin.com/in/eduardo-loza-9b930b218/)
